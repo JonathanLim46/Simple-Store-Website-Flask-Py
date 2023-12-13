@@ -1,0 +1,15 @@
+[
+  {
+    "username": "admin",
+    "password": "12",
+    "balance": 805000,
+    "purchases": [
+      {
+        "id": "item1",
+        "name": "T-Shirt",
+        "price": 195000,
+        "image": "model.jpg"
+      }
+    ]
+  }
+]
