@@ -3,7 +3,7 @@ from flask import Flask, render_template, request, redirect, url_for, session
 from flask_login import LoginManager, UserMixin, login_user, login_required, current_user, logout_user
 
 app = Flask(__name__)
-app.secret_key = 'uinumberone'
+app.secret_key = 'rose'
 login_manager = LoginManager(app)
 
 class User(UserMixin):
